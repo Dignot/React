@@ -1,0 +1,12 @@
+.App{
+    display:inline-block;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+/* UserCard*/
+.container{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}

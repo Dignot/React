@@ -1,1 +1,0 @@
-export { getUserApi } from "./user";
